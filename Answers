@@ -1,0 +1,24 @@
+
+1.what is your understanding of blockchain?
+ A. Blockchain is a mixed of technoligies that  are distributed database and Cryptography.
+     It keeps records of all the transactions at one place in a secure  ,immutable way.
+
+2.what is the core problem blockchain trying to solve?
+A. Authenticity, security and need powerful third party trust.
+
+3.what are the few features which blockchain will give you?
+A. Features of BlockChain are :
+     Verifiable
+     Unchangeble
+     Tamper-proof
+     Immutable
+     Security boost
+     
+4.what all things does a block contain?
+A. A block contains Block number, transaction record,previous block key,mining key.
+
+
+5.how is the verifiability of blockchain is been attained?
+A. Veriability of block chain is attained by using digital signatures,
+ie previous key + data = current key and current key + data = new key 
+ Inthis way the data is encrypted and veriable. When any of the data is changed then it shows some error.
